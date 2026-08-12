@@ -1,3 +1,3 @@
 print("Hola, soy Ana. Bienvenido a mi programa!")
-name = input("Cómo te llamás. ")
+name = input("¿Cómo te llamás? ")
 
